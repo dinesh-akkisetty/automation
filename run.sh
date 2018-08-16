@@ -1,0 +1,1 @@
+docker run -d -it --name=test automation python test_all.py
