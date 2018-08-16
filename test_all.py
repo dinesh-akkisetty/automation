@@ -7,8 +7,9 @@ from BHMG.rename import Rename
 
 class TestExcelMethods(unittest.TestCase):
     def test_hello():
-        self.assertEqual('test', 'test')
+        self.assertEqual('test', 'tt')
 
 
 if __name__ == '__main__':
     unittest.main()
+    print "hello"
